@@ -27,7 +27,7 @@ height = double.Parse(heightString);
 woodLength = 2 * (width + height) * 3.25;
 glassArea = 2 * (width * height);
 Console.WriteLine("The length of the wood needed is " + woodLength + " feet.");
-Console.WriteLine("The area of the glass needed is " + glassArea + " square feet.");
+Console.WriteLine("The area of the glass needed is " + glassArea + " square metres.");
 
 
 
